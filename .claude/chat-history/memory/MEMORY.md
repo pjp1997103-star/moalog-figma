@@ -1,0 +1,2 @@
+- [프로토타입은 최상위 프레임](feedback_figma_prototype_structure.md) — 화면 정리는 그룹 대신 섹션, 정리 후 시작점 재설정
+- [원본은 trash 섹션으로](feedback_figma_user_trash_section.md) — 삭제하지 않고 옮기고, 링크는 새 화면으로 재연결
